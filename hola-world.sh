@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "Hola World!"
+echo "Hello this is demo for alibaba cloud pipeline!"
